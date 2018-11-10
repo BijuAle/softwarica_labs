@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<college>
+	<student>
+			<name>Bishwas Karki</name>
+			<email>bishwas@gmail.com</email>
+	</student>
+
+	<student>
+			<name>Sabin Thapa</name>
+			<email>sabin@gmail.com</email>
+	</student>
+
+	<student>
+			<name>Chhaya Pandey</name>
+			<email>chhaya@gmail.com</email>
+	</student>
+
+	<student>
+			<name>Pabin Limbu</name>
+			<email>pabin@gmail.com</email>
+	</student>
+</college>

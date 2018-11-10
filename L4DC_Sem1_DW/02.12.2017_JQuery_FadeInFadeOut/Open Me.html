@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>JQuery</title>
+	<script type="text/javascript" src = "jquery-3.1.1.js"></script>
+</head>
+<body>
+<p id = "text">Peek-a-Boo!</p>
+<button id = "btnShow">Show</button>
+<button id = "btnHide">Hide</button>
+<script>
+	$("#btnShow").click(function(){
+		$("#text").fadeIn();
+	})
+
+	$("#btnHide").click(function(){
+		$("#text").fadeOut();
+	})
+</script>
+</body>
+</html>

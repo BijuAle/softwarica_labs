@@ -1,0 +1,46 @@
+import java.util.Scanner;
+
+public class BinarySearch{
+
+  public static void main(String[]args){
+  
+    Scanner scan = new Scanner(System.in);
+    int[] elements = new int[11];
+        
+    System.out.println("You can store 10 (TEN) numbers only.");
+    for (int index = 0; index < elements.length; index++){
+       System.out.println(index + ". Enter the number you want to store.");    
+       elements[index] = scan.nextInt();
+    }
+
+    System.out.println("Enter search term");
+    int SearchTerm = scan.nextInt();
+    
+    int found = BinarySearcher (elements, SearchTerm);
+    if (found == -1){
+      System.out.println(SearchTerm + " is not present in the array.");
+    }
+    else
+      System.out.println(SearchTerm + " was found in " + found);
+  }
+  
+  static int BinarySearcher (int[] elements, int SearchTerm){
+  
+    int min = 0;
+    int max = elements.length;
+    
+    do   {
+      int mid = min + max / 2;
+      if (SearchTerm == elements[mid]) {      
+        return mid;
+      }
+      else if (SearchTerm > elements[mid]){
+        min = mid +1;        
+      }
+      else if (SearchTerm < elements[mid]) {
+        max = mid -1;  
+      }          
+} while (min < max);
+    return -1;
+}
+}

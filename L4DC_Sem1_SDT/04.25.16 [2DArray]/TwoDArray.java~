@@ -1,0 +1,10 @@
+public class TwoDArray{
+  
+  public static void main (String[]args){
+  
+    int[][] grid = new int[5][9];
+    
+    
+  }
+
+}

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 20 Mar 2017 07:00:57 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA['Lack of money' prompts care firms to end council contracts]]></title>
+            <description><![CDATA[Private care companies say councils are not paying enough to cover staff wages and other costs.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-39321579</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39321579</guid>
+            <pubDate>Mon, 20 Mar 2017 06:02:00 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/74D9/production/_95231992_gettyimages-181095505.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Orly airport: Drugs and alcohol found in gunman's blood]]></title>
+            <description><![CDATA[Tests show a man who attacked soldiers at a Paris airport consumed alcohol, cocaine and cannabis.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-39323833</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-39323833</guid>
+            <pubDate>Mon, 20 Mar 2017 01:05:15 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/5B11/production/_95231332_mediaitem95231331.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man arrested over Finsbury Park toddler murder]]></title>
+            <description><![CDATA[The man is being held over the murder of a boy aged one, thought to be his son, in north London.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-london-39323617</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-london-39323617</guid>
+            <pubDate>Sun, 19 Mar 2017 21:35:08 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C258/production/_95225794_mediaitem95225793.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ghana waterfall: Many dead in Kintampo freak tree accident]]></title>
+            <description><![CDATA[High school students die at a popular waterfall in Ghana, after a tree falls on them in a storm.]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-39323826</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-39323826</guid>
+            <pubDate>Sun, 19 Mar 2017 23:04:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/7853/production/_95230803_ghanakintampo9760317.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Brexit could place 'huge burden' on Parliament]]></title>
+            <description><![CDATA[Up to 15 new bills could be required to deliver Brexit, the Institute for Government think tank warns.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-39322297</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39322297</guid>
+            <pubDate>Mon, 20 Mar 2017 02:08:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1187B/production/_95230817_mediaitem95136618.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['When your mum doesn't know who you are']]></title>
+            <description><![CDATA[Joey Daley documents life with his mother after she was diagnosed with dementia.]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-39309108</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-39309108</guid>
+            <pubDate>Mon, 20 Mar 2017 02:39:15 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/12643/production/_95213357_coverimage-nologo.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Dozens of crimes against MPs reported]]></title>
+            <description><![CDATA[A police team created to handle complaints dealt with 53 cases in the months after Jo Cox's murder.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-39322410</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39322410</guid>
+            <pubDate>Mon, 20 Mar 2017 01:20:04 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/2AFB/production/_95230011_mediaitem95228630.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump-Russia claims: US intelligence chiefs to give evidence]]></title>
+            <description><![CDATA[FBI and NSA directors will give evidence on claims Moscow interfered with 2016's election campaign.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-39324587</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-39324587</guid>
+            <pubDate>Mon, 20 Mar 2017 05:41:39 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/FFE9/production/_95231556_comey.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I'm owed £9,000 in child maintenance']]></title>
+            <description><![CDATA[Laura Riley has a 10-year-old son, Louis, and has been chasing child maintenance payments for nine years.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-39306001</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39306001</guid>
+            <pubDate>Mon, 20 Mar 2017 01:58:27 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/8929/production/_95231153_p04xdbnc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Moira Anderson police find 'areas of interest' at canal]]></title>
+            <description><![CDATA[Police divers due to begin investigating "areas of interest" in the search for a schoolgirl who disappeared 60 years ago.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-glasgow-west-39314808</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-glasgow-west-39314808</guid>
+            <pubDate>Mon, 20 Mar 2017 00:09:34 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11138/production/_95144996_img_0451.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Whistleblowers 'to be protected' if they apply for NHS job]]></title>
+            <description><![CDATA[The health secretary says he wants to stop discrimination against those raising safety concerns.]]></description>
+            <link>http://www.bbc.co.uk/news/health-39310193</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-39310193</guid>
+            <pubDate>Mon, 20 Mar 2017 02:06:08 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/05AA/production/_95205410_007680930-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swimming technique of sperm 'all down to simple maths']]></title>
+            <description><![CDATA[Knowing why some sperm succeed and others fail could help treat male infertility, researchers say.]]></description>
+            <link>http://www.bbc.co.uk/news/health-39292913</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-39292913</guid>
+            <pubDate>Mon, 20 Mar 2017 02:16:07 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D924/production/_95188555_c0233482-sperm_in_oviduct_illustration-spl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sesame Street welcomes Julia, a muppet with autism]]></title>
+            <description><![CDATA[The popular children's TV show plans to introduce Julia - a little girl with autism - in April.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-39324183</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-39324183</guid>
+            <pubDate>Mon, 20 Mar 2017 04:23:47 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/03F5/production/_95231010_julia.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paper review: Ex-ambassador attacks Trump, and policing with drones]]></title>
+            <description><![CDATA[Donald Trump is accused of "peddling falsehoods" over his GCHQ claims, and police turn to drones to fight crime.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-the-papers-39323746</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-the-papers-39323746</guid>
+            <pubDate>Mon, 20 Mar 2017 04:50:11 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/6C9B/production/_95230872_preview.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Doping in amateur sport: Drug use 'fast becoming a crisis' - Nicole Sapstead]]></title>
+            <description><![CDATA[UK Anti-Doping says drug use in sport is "fast becoming a crisis" in response to a poll for BBC Sport into doping in amateur sport.]]></description>
+            <link>http://www.bbc.co.uk/sport/38884801</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/38884801</guid>
+            <pubDate>Mon, 20 Mar 2017 05:59:50 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/B342/production/_95209854_bbc_doping_final_index_for_site.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dame Vera Lynn: The Forces' Sweetheart turns 100]]></title>
+            <description><![CDATA[As Dame Vera Lynn turns 100, BBC News looks back at the life of the Forces' Sweetheart.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-39271620</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-39271620</guid>
+            <pubDate>Mon, 20 Mar 2017 00:00:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/116F2/production/_93901417_vera_bw_pa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hukou Waterfall in north China dazzles in aerial footage]]></title>
+            <description><![CDATA[Why the Hukou Waterfall in north China becomes a tourist attraction in spring.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-china-39324116</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-china-39324116</guid>
+            <pubDate>Mon, 20 Mar 2017 00:28:27 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/8087/production/_95230923_waterfall.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Duterte's bloody crackdown drives drug users to rehab]]></title>
+            <description><![CDATA[In the Philippines, drug users try to turn their lives around and stay safe amid Duterte's anti-drugs campaign.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-39307075</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-39307075</guid>
+            <pubDate>Mon, 20 Mar 2017 00:17:19 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8EDA/production/_95207563_p04x56x5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chuck Berry: Seven of the king of rock 'n' roll's best songs]]></title>
+            <description><![CDATA[BBC Music reporter Mark Savage looks at the late rock 'n' roll legend's most influential songs.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-39321495</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-39321495</guid>
+            <pubDate>Sun, 19 Mar 2017 14:36:37 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5214/production/_87121012_77200500.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC Breakfast]]></title>
+            <description><![CDATA[BBC coverage of latest developments]]></description>
+            <link>http://www.bbc.co.uk/news/10318089</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/10318089</guid>
+            <pubDate>Fri, 17 Feb 2017 09:41:12 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Sisterlocks struggle: Stylists want fewer restrictions to braid hair]]></title>
+            <description><![CDATA[Professional hairbraiders are putting up a fight over what they say are unnecessary regulations.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-39261335</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-39261335</guid>
+            <pubDate>Mon, 20 Mar 2017 01:07:25 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/DAF3/production/_95215065_20170315_154157.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What makes gambling wrong but insurance right?]]></title>
+            <description><![CDATA[Gamblers and insurers both place bets on the future, so how do they compare?]]></description>
+            <link>http://www.bbc.co.uk/news/business-38905963</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38905963</guid>
+            <pubDate>Mon, 20 Mar 2017 00:02:25 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/9289/production/_95031573_gettyimages-185275287.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How one woman beat mental illness by helping others]]></title>
+            <description><![CDATA[Australian Jessica May overcame acute anxiety by setting up a recruitment firm for people with mental and physical disabilities.]]></description>
+            <link>http://www.bbc.co.uk/news/business-39255217</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-39255217</guid>
+            <pubDate>Mon, 20 Mar 2017 00:02:11 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/856E/production/_95185143_jesprofile2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reviving a 500-year-old dying language]]></title>
+            <description><![CDATA[A group of volunteers in Singapore are reviving Kristang, the language of the Portuguese Eurasians.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-38592216</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-38592216</guid>
+            <pubDate>Sun, 19 Mar 2017 23:56:27 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17A54/production/_95125869_screenshot2017-03-10at5.56.43pm-2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Andiamo: How a boy died and his parents had a medical brainwave]]></title>
+            <description><![CDATA[A couple who struggled for years to get the braces their disabled child needed to sit in a chair have found a way to make them in hours rather than months.]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-39309238</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-39309238</guid>
+            <pubDate>Mon, 20 Mar 2017 02:42:20 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11512/production/_95203907_diamo_bw976.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where are England's steepest streets?]]></title>
+            <description><![CDATA[Where are England's steepest streets? BBC News asked readers which hills fill them with horror.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-38568893</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-38568893</guid>
+            <pubDate>Sun, 19 Mar 2017 00:16:40 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3383/production/_95178131_hi009148226.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why it's hard to be a Kevin in France]]></title>
+            <description><![CDATA[What happens when your name is perfectly reasonable in your home country, but raises a sympathetic smile when you're abroad?]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-39278092</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-39278092</guid>
+            <pubDate>Sun, 19 Mar 2017 00:08:23 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/137C6/production/_95141897_costner_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man City draw with Liverpool one of my most special days - Pep Guardiola]]></title>
+            <description><![CDATA[Manchester City manager Pep Guardiola says his side's 1-1 draw with Liverpool at Etihad Stadium was "one of his most special days in management".]]></description>
+            <link>http://www.bbc.co.uk/sport/football/39323405</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/39323405</guid>
+            <pubDate>Sun, 19 Mar 2017 21:07:25 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/13757/production/_95230797_pepguardiola.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Michail Antonio: West Ham winger to miss England duty with hamstring injury]]></title>
+            <description><![CDATA[West Ham winger Michail Antonio withdraws from the England squad to face Germany and Lithuania because of a hamstring injury.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/39317665</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/39317665</guid>
+            <pubDate>Sun, 19 Mar 2017 23:38:04 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/F99F/production/_95230936_bilicantonio.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Six Nations 2017: Pundits pick best player, try, breakthrough star and more]]></title>
+            <description><![CDATA[Mike Phillips, Jeremy Guscott and Keith Wood dish out Six Nations awards and ponder who should be in the British and Irish Lions squad.]]></description>
+            <link>http://www.bbc.co.uk/sport/rugby-union/39322306</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/rugby-union/39322306</guid>
+            <pubDate>Mon, 20 Mar 2017 06:21:23 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/C92F/production/_95230515_fotorcreated.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryan McBride: Derry City captain dies aged 27]]></title>
+            <description><![CDATA[Derry City captain Ryan McBride dies at the age of 27, the Irish Football Association confirms.]]></description>
+            <link>http://www.bbc.co.uk/sport/northern-ireland/39324936</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/northern-ireland/39324936</guid>
+            <pubDate>Mon, 20 Mar 2017 06:53:39 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/1269F/production/_95232457_rexfeatures_8509704ac.jpg"/>
+        </item>
+    </channel>
+</rss>

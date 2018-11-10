@@ -1,0 +1,14 @@
+public class myclass{
+  public static void main(String()args{
+    int Z=5;
+    while(Z>0){
+      int c=1;
+      while (c<z){
+        System.out.print("*");
+        c++;
+      }
+     z++;   
+    }
+  }
+
+}

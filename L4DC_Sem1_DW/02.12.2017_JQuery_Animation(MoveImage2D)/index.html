@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript" src = "jquery-3.1.1.js"></script>
+	<meta name="author" content="Biju Ale">
+</head>
+<body>
+	<p id = "para" style="position: relative">This is for animation</p>
+	<img id = "imgCanada" src = "Canada.jpg" width= "600" style="position: relative">
+	<button id = "btnClick">Click me</button>
+	<script type = "text/javascript">
+		$("#btnClick").click(function(){
+			for (var i = 0; i<10; i++) {
+				$("#imgCanada").animate({"left":"140px"});
+				$("#imgCanada").animate({"top":"140px"});
+				$("#imgCanada").animate({"left":"0"});
+				$("#imgCanada").animate({"top":"0"});
+			}
+			
+		})
+	</script>
+</body>
+</html>

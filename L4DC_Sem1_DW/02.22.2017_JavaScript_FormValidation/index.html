@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>JS</title>
+	<meta name="author" content="Biju Ale">
+</head>
+<body>
+	<h1 id = "test"></h1>
+	<!-- <button onclick = "add()">Add</button> -->
+
+	<form method = "POST" name = "myForm">
+		<div>Name <input type="text" name="txtName" id ="txtName"></div>
+		<div>Address <input type="text" name="txtAddress"></div>
+		<div>Phone <input type="text" name="txtPhone"></div>
+		<div>Email <input type="email" name="txtEmail"></div>
+		<div><input type="submit" name="btnSubmit" value = "Register" onclick="return validateForm()"></div>
+	</form>
+</body>
+<!-- <script type="text/javascript">
+	alert("Welcome");
+	document.getElementById("test").innerHTML = "Javascript";
+	//document.write("Welcome to javascript");K
+	
+
+	function add(){
+		var a= 5;
+		var b= 10;
+		alert(a+b);
+	}
+</script>-->
+<script type="text/javascript">
+	function validateForm(){
+		var name = document.forms["myForm"]["txtName"].value
+		var address = document.forms["myForm"]["txtAddress"].value
+		var phone = document.forms["myForm"]["txtPhone"].value
+		var email = document.forms["myForm"]["txtEmail"].value
+		//var name = document.getElementById("").value;
+		if (name == "") {//Null Validation
+			alert("Please enter Name!");
+			document.getElementById("txtName").focus();
+			return false;
+		}
+		if(address ==""){//Null Validation
+			alert("Please enter address!");
+			return false;
+		}
+		if (phone == "") {//Format Validation using Regular Expression
+			alert("Please enter phone!");
+			return false;
+		}
+
+		/*var email_pattern= new RegExp("?:[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*|"(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21\x23-\x5b\x5d-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])*")@(?:(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?|\[(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?|[a-z0-9-]*[a-z0-9]:(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21-\x5a\x53-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])+)\]");	
+		if(!email_pattern.match(email)){//Format Validation using Regular Expression					
+			alert("Please enter valid email");
+			return false;
+		}*/
+	}
+</script>
+</html>

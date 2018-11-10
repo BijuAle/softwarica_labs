@@ -1,0 +1,36 @@
+package exercise;
+
+public class groceryStore{
+
+  int applesSoldYearly;      //number of apples sold per year
+  double appleRetailPrice;    //retail price of apple
+  
+  int orangesSoldYearly;      //number of oranges sold per year
+  double orangeRetailPrice;    //retail price of orange 
+
+  //Parameterized constructor
+    groceryStore(int para_applesSoldYearly, double para_appleRetailPrice, int para_orangesSoldYearly, double para_orangeRetailPrice) {
+      applesSoldYearly = para_applesSoldYearly;
+      appleRetailPrice = para_appleRetailPrice;
+      orangesSoldYearly = para_orangesSoldYearly;
+      orangeRetailPrice = para_orangeRetailPrice;
+    }
+    
+  //Method: Gross Revenuue
+  double calcGrossRevenue() {  
+   double grossRevenue = (applesSoldYearly * appleRetailPrice) + (orangesSoldYearly * orangeRetailPrice);
+    return grossRevenue;
+  }
+  
+  //Method: Apple Revenue Target
+  double calcAppleRevenue(double targetRevenueApple){  
+    double targetNoApples = targetRevenueApple / appleRetailPrice; 
+    return targetNoApples;
+  }
+  
+  //Method: Orange Revenue Target
+   double calcOrangeRevenue(double targetRevenueOrange){
+    double targetNoOranges = targetRevenueOrange / orangeRetailPrice; 
+    return targetNoOranges;
+   }
+}

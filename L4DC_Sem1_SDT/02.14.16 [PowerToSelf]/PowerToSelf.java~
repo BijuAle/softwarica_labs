@@ -1,0 +1,37 @@
+import java.util.Scanner;
+
+public class PowerToSelf{
+ public static void main(String[]args){
+  Scanner userinput = new Scanner(System.in);
+  int base, power, answer, sfinal=0;
+
+  System.out.println("Please enter a base.");
+  base=userinput.nextInt();
+
+  System.out.println("Please enter power");
+  power=userinput.nextInt();
+
+ 
+  while (power!=1);{
+   answer=base*base;
+   sfinal=sfinal+answer;
+   power--;
+  };
+  System.out.println(sfinal);
+ };
+
+};
+
+/*public class powerloop{
+
+public static void main(String[]args){
+
+
+int loopVal = 0;
+
+while ( loopVal < 5) {
+System.out.println("Printing Some Text");
+loopVal++;
+}
+};
+};*/

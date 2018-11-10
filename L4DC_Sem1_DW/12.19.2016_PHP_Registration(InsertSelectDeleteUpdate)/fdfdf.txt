@@ -1,0 +1,9 @@
+<form method="post" action="action.php">
+
+<p>Username<input type="text" name="un" /></p>
+<p>Address<input type="text" name="add" /></p>
+<p>email<input type="text" name="em" /></p>
+<p><input type="submit" name="sub" /></p>
+
+
+</form>

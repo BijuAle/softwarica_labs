@@ -1,0 +1,38 @@
+import java.util.Scanner;
+
+
+public class myclass{
+  public static void main(String[]args){
+    //int a = calculator(5, 90);
+  //  int b = difference(234, 23423);
+  /*Scanner scan = new System.Scanner(System.in)
+    
+    System.out.println("Enter a number to check if it is palindrome or not.");
+    int userinput = scan.netxInt();
+    
+    boolean status = palincheck(userinput);
+    
+    System.out.println(userinput+ " is"+ palindrome)
+  */
+    Scanner scan = new Scanner(System.in);
+    
+    System.out.println("What is the length of rectangle?");
+    int userinput = scan.nextInt();
+    
+    System.out.println("What is the breadth of rectangle?");
+    int userinput2 = scan.nextInt();
+       
+    int area = areacalc(userinput, userinput2);
+    System.out.println("The area of rectangle is "+ area);
+  }
+    
+  public static int areacalc(int length, int breadth){
+      int area = length*breadth;
+      return area;
+  }
+  
+  /*
+
+  */
+  
+ }

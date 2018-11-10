@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>JQuery</title>
+	<meta name="author" content="Biju Ale">
+	<script type="text/javascript" src = "jquery-3.1.1.js"></script>
+	<style type="text/css">
+		.one{
+			color:red;
+		}
+		.two{
+			color:blue;
+		}
+	</style>
+</head>
+<body>
+<p id = "para">some text</p>
+<button id = "btn">Click</button>
+</body>
+<script>
+
+	$('#btn').click(function(){
+		//$('.one').css({"font-size":"80px", "color": "red", "text-decoration":"underline"})
+		//$('#para').addClass("one");
+		var att = $('#para').attr('class');//one
+		if (att=="one") {
+			$('#para').removeClass('one');
+			$('#para').addClass('two');
+		}else{
+			$('#para').removeClass('two');
+			$('#para').addClass('one');
+		}
+		
+	})
+</script>
+</html>

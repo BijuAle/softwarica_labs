@@ -1,0 +1,19 @@
+public class TwoDArray2{
+  public static void (String[]args){
+  
+    int[][]grid = {
+      {1, 5, 6},
+      {2, 9, 8},
+      {0, 5, 2}    
+    };
+  
+    for (rowindex = 0; rowindex<grid.length; rowindex++{
+      for (columnindex = 0; columnindex<grid[1].length; columnindex++)
+        System.out.println(grid [rowindex][columnindex]);
+    }
+  }
+
+
+}
+//sum
+//

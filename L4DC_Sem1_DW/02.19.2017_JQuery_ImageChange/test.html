@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Change Image</title>
+	<meta name="author" content="Biju Ale">
+	<script type="text/javascript" src = "jquery-3.1.1.js"></script>
+</head>
+<style type="text/css">
+	.one{
+		width: 90px;
+		height:90px;
+		background:url(Adelboden.jpg);
+	}
+	.two{
+		width: 90px;
+		height:90px;
+		background:url(USA.jpg);
+	}
+}
+</style>
+<body>
+<div id = "mydiv" class ="one">
+		
+	</div>
+
+	<button id = "btn">Click</button>
+
+</body>
+<script>
+	$('#btn').click(function(){
+var att = $('#mydiv').attr('class');//one
+if (att=="one") {
+	$('#mydiv').removeClass('one');
+	$('#mydiv').addClass('two');
+}else{
+	$('#mydiv').removeClass('two');
+	$('#mydiv').addClass('one');
+}
+})
+</script>
+</html>

@@ -1,0 +1,24 @@
+import java.util.Scanner;
+public class LinearSearch(){
+
+  public static void main (String...args){
+  
+    Scanner scan = new Scanner (System.in);
+    System.out.println("How many names do you want to store?");
+    int ArrayLength = scan.next();
+    
+    String[] names = new String [ArrayLength];
+    
+    for (int index = 0; index < ArrayLenth; index++){
+    
+      System.out.println(index + " .Enter name.");
+      names[index] = scan.next();
+    }
+    
+    System.out.println ("Enter the name that you want to search.");
+    String SearchTerm = scan.next();
+    
+    int FoundIndex = LinerSearcher (SearchTerm)
+  }
+
+}

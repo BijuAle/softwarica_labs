@@ -1,0 +1,17 @@
+public class StudentResults{
+  
+  String full_name;
+  String exam_name;
+  String exam_score;
+  String exam_grade;
+  
+  //default constructor
+  StringResults(){
+  
+   full_name = null;
+   exam_name = null;
+   exam_store = null;
+   exam_grade = null;
+  }
+  
+}

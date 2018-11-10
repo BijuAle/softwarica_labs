@@ -1,0 +1,30 @@
+<script type = "text/javascript">
+
+	function abcd(action){
+		var b = parseInt(document.getElementById('first').value);
+		var c = parseInt(document.getElementById('second').value);
+		var result = null;
+		var msg = null;
+
+		if(action=='add'){
+			result = b+c;
+			msg = "The sum is ";
+		}else if (action=='sub'){
+			result = b-c;
+			msg = "The difference is ";
+		}else if (action == 'mult'){
+			result = b*c;
+			msg = "The product is ";
+		}
+	//document.write(result);
+	document.getElementById('resultArea').innerHTML = msg+result;
+
+}
+</script>
+<input type="text" id="first">
+<input type="text" id="second">
+<button onclick = "abcd('add')">+</button>
+<button onclick = "abcd('sub')">-</button>
+<button onclick = "abcd('mult')">*</button>
+
+<div id = "resultArea"></div>
