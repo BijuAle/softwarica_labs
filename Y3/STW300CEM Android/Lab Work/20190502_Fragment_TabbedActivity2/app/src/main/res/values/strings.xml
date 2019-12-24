@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">20190502_Fragment_TabbedActivity</string>
+    <string name="tab_login">Login</string>
+    <string name="tab_register">Register</string>
+</resources>

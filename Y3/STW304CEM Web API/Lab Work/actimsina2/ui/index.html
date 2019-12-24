@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="/node_modules/bootstrap/dist/css/bootstrap.min.css"
+    />
+
+    <title>Tour of Heroes - Login</title>
+  </head>
+  <body>
+    <div class="container">
+      <h2>All Heroes</h2>
+
+      <table class="table col-sm-12">
+        <thead>
+          <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Description</th>
+            <th scope="col">Image</th>
+            <th scope="col"></th>
+          </tr>
+        </thead>
+        <tbody id="tblbody"></tbody>
+      </table>
+
+      <hr />
+      <h2>Add Hero</h2>
+
+      <form class="form col-sm-6" id="hero-form">
+        <input
+          type="text"
+          class="form-control"
+          name="name"
+          id="name"
+          placeholder="Full Name"
+        />
+        <br />
+        <input
+          type="text"
+          class="form-control"
+          name="desc"
+          id="desc"
+          placeholder="Description"
+        />
+        <br />
+        <form enctype="multipart/form-data" id="fileUploadForm">
+          <input type="file" name="fileToUpload" id="fileToUpload" />
+        </form>
+        <br />
+
+        <button type="submit" class="btn btn-primary" id="add-hero">
+          Add Hero!
+        </button>
+      </form>
+      <hr />
+      <br />
+      <button id="remove-heroes" class="btn btn-danger">
+        Remove All Heroes!!
+      </button>
+      <button class="btn btn-danger">
+        <a href="villains.html">Villains</a>
+      </button>
+    </div>
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="/node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="/node_modules/popper.js/dist/popper.min.js"></script>
+    <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <script src="js/scripts.js"></script>
+  </body>
+</html>
